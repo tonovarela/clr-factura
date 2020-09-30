@@ -1,0 +1,11 @@
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\PDFFactura\bin\Debug\PDFFactura.exe.config
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\PDFFactura\bin\Debug\PDFFactura.exe
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\PDFFactura\bin\Debug\PDFFactura.pdb
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\PDFFactura\bin\Debug\itextsharp.dll
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\PDFFactura\bin\Debug\itextsharp.xml
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\PDFFactura\obj\Debug\PDFFactura.csprojAssemblyReference.cache
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\PDFFactura\obj\Debug\PDFFactura.csproj.CopyComplete
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\PDFFactura\obj\Debug\PDFFactura.exe
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\PDFFactura\obj\Debug\PDFFactura.pdb
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\PDFFactura\bin\Debug\CLRcfdi.dll
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\PDFFactura\bin\Debug\CLRcfdi.pdb

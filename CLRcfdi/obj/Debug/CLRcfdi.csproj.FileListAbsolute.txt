@@ -1,0 +1,8 @@
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\CLRcfdi\bin\Debug\CLRcfdi.dll
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\CLRcfdi\bin\Debug\CLRcfdi.pdb
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\CLRcfdi\obj\Debug\CLRcfdi.csprojAssemblyReference.cache
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\CLRcfdi\obj\Debug\CLRcfdi.dll
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\CLRcfdi\obj\Debug\CLRcfdi.pdb
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\CLRcfdi\bin\Debug\itextsharp.dll
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\CLRcfdi\bin\Debug\itextsharp.xml
+C:\Users\tonovarela\source\repos\IntelisisFacturacion\CLRcfdi\obj\Debug\CLRcfdi.csproj.CopyComplete
